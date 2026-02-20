@@ -20,6 +20,3 @@ World Happiness Report - 全球幸福度报告数据
 
 ## 在线预览
 可在 [Tableau Public](https://public.tableau.com/) 上传后在线查看。
-
-## 截图
-![World Happiness Dashboard](./screenshot.png)
