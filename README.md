@@ -15,6 +15,11 @@ World Happiness Report - 全球幸福度报告数据
 ## 工具
 - Tableau Desktop
 
+## 文件说明
+- `World Happiness.twbx` - Tableau工作簿文件
+- `WHR20_DataForFigure2.1.xls` - 世界幸福指数原始数据
+- `World Happiness.pdf` - 项目报告文档
+
 ## 如何查看
 下载 `.twbx` 文件后，使用 Tableau Desktop 或 Tableau Reader 打开查看。
 
