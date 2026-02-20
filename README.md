@@ -20,7 +20,7 @@ World Happiness Report - 全球幸福度报告数据
 - `WHR20_DataForFigure2.1.xls` - 世界幸福指数原始数据
 - `World Happiness.pdf` - 项目报告文档
 
-## 项目报告
+## 作品展示
 [查看World Happiness.pdf](./World%20Happiness.pdf)
 
 ## 如何查看
